@@ -2,7 +2,7 @@ repo_name: 2lambda123/aws-xray-sdk-node
 report_id: 74a0efeab358a14e1e6a47c00f010e79
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-29T20:30:43+00:00'
+timestamp: '2024-01-05T08:14:02+00:00'
 requested_by: srprash
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -27,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package.json
   detection_source: package.json
   last_updated_by: Wu
   last_updated_on: 2017-11-09 21:35:35.000000000 Z
@@ -39,6 +41,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -50,6 +53,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/packages/core/package.json
   detection_source: packages/core/package.json
   last_updated_by: Wu
   last_updated_on: 2017-11-09 21:35:35.000000000 Z
@@ -104,6 +108,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package.json
   detection_source: package.json
   last_updated_by: Wu
   last_updated_on: 2017-11-09 21:35:35.000000000 Z
@@ -129,6 +134,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package.json
   detection_source: package.json
   last_updated_by: Carol Abadeer
   last_updated_on: 2023-03-03 22:47:54.000000000 Z
@@ -141,6 +147,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package.json
   detection_source: package.json
   last_updated_by: Wu
   last_updated_on: 2017-11-09 21:35:35.000000000 Z
@@ -152,6 +159,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -161,6 +169,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/.github/workflows/continuous-monitoring.yml
   detection_source: ".github/workflows/continuous-monitoring.yml"
   last_updated_by: Bhautik Pipaliya
   last_updated_on: 2021-04-02 17:25:12.000000000 Z
@@ -200,6 +209,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/packages/core/package.json
   detection_source: packages/core/package.json
   last_updated_by: Wu
   last_updated_on: 2017-11-09 21:35:35.000000000 Z
@@ -225,6 +235,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package.json
   detection_source: package.json
   last_updated_by: Wu
   last_updated_on: 2017-11-09 21:35:35.000000000 Z
@@ -249,6 +260,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/packages/postgres/package.json
   detection_source: packages/postgres/package.json
   last_updated_by: Wu
   last_updated_on: 2017-11-09 21:35:35.000000000 Z
@@ -275,6 +287,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node
   detection_source: Repo Metadata
 - name: "@aws-sdk/config-resolver"
   description: "[![NPM version]"
