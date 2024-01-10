@@ -43,15 +43,15 @@
         "no-trailing-spaces": "error",
         
         /** Turn off enforcement */
-        "@typescript-eslint/ban-types": "off",
-        "@typescript-eslint/ban-ts-comment": "off",
-        "@typescript-eslint/no-var-requires": "off",
-        "@typescript-eslint/no-empty-function": "off",
-        "@typescript-eslint/no-empty-interface": "off",
-        "@typescript-eslint/no-explicit-any": "off",
-        "@typescript-eslint/explicit-module-boundary-types": "off",
-        "prefer-rest-params": "off",
-        "@typescript-eslint/no-non-null-assertion": "off"
+        "@typescript-eslint/ban-types": "error",
+        "@typescript-eslint/ban-ts-comment": "error",
+        "@typescript-eslint/no-var-requires": "error",
+        "@typescript-eslint/no-empty-function": "error",
+        "@typescript-eslint/no-empty-interface": "error",
+        "@typescript-eslint/no-explicit-any": "error",
+        "@typescript-eslint/explicit-module-boundary-types": "error",
+        "prefer-rest-params": "error",
+        "@typescript-eslint/no-non-null-assertion": "error"
     },
     "parserOptions": {
         "ecmaVersion": 2020
