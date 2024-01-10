@@ -35,8 +35,6 @@ jobs:
       - name: Publish metric on X-Ray Node SDK distribution availability
         if: ${{ always() }}
         run: |
-          if [[ "${{ steps.distribution-availability.outcome }}" == "failure" ]]; then
-            aws cloudwatch put-metric-data --metric-name XRayNodeSDKDistributionUnavailability --dimensions failure=rate --namespace MonitorSDK --value 1 --timestamp $(date +%s)
-          else
-            aws cloudwatch put-metric-data --metric-name XRayNodeSDKDistributionUnavailability --dimensions failure=rate --namespace MonitorSDK --value 0 --timestamp $(date +%s)
+          if [ ${{ steps.distribution-availability.outcome }} == "failure" ]; then
+            aws cloudwatch put-metric-data --metric-name XRayNodeSDKDistributionUnavailability --dimensions failure=rate --namespace MonitorSDK --value 1 --timestamp $(date +"%Y-%m-%dT%H:%M:%SZ")
           fi
