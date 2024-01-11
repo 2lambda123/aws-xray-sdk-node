@@ -5,6 +5,12 @@
 <!--LATEST=3.2.0-->
 <!--ENTRYINSERT-->
 ## 2.5.0
+* improvement: Added TypeScript definitions [PR #<PR_NUMBER>](https://github.com/aws/aws-xray-sdk-node/pull/<PR_NUMBER>)
+## 2.3.4
+* improvement: Updated eslint dev dependency: [PR #145](https://github.com/aws/aws-xray-sdk-node/pull/145)
+* improvement: Updated .eslintrc.json to enable es6 and fixed eslint errors: [PR #146](https://github.com/aws/aws-xray-sdk-node/pull/146)
+* improvement: Updated nock,mocha,sinon dependencies to fix lodash version: [PR #153](https://github.com/aws/aws-xray-sdk-node/pull/153)
+## 2.5.0
 * improvement: Added TypeScript definitions [PR #207](https://github.com/aws/aws-xray-sdk-node/pull/207)
 
 ## 2.3.4
