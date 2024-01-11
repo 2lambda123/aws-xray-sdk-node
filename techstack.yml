@@ -139,7 +139,7 @@ tools:
   last_updated_by: Carol Abadeer
   last_updated_on: 2023-03-03 22:47:54.000000000 Z
 - name: ESLint
-  description: The fully pluggable JavaScript code quality tool
+  description: The fully pluggable JavaScript code quality and build tool
   website_url: http://eslint.org/
   license: MIT
   open_source: true
@@ -279,10 +279,7 @@ tools:
   last_updated_by: Carol Abadeer
   last_updated_on: 2022-09-26 19:20:46.000000000 Z
 - name: Shell
-  description: A shell is a text-based terminal, used for manipulating programs and
-    files. Shell scripts typically manage program execution.
-  website_url: https://en.wikipedia.org/wiki/Shell_script
-  open_source: false
+  description: Scripts for build and deployment
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
@@ -385,7 +382,7 @@ tools:
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16749/default_c795226b47ffe4cb32fcfeee29dd5b030544258a.png
   detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
-  detection_source: package.json
+  detection_source: package-lock.json
   last_updated_by: William Armiros
   last_updated_on: 2021-10-26 17:26:07.000000000 Z
 - name: "@types/mocha"
@@ -539,6 +536,11 @@ tools:
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17232/default_f32012d99e98300650172d76a20c554617f1031d.png
   detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: William Armiros
+  last_updated_on: 2021-06-01 21:06:13.000000000 Z
+- name: eslint-config-standard
+  description: JavaScript, build and deployment,
   detection_source: package.json
   last_updated_by: William Armiros
   last_updated_on: 2021-06-01 21:06:13.000000000 Z
