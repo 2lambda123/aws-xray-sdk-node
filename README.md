@@ -2,6 +2,32 @@
 
 ### :mega: OpenTelemetry JavaScript with AWS X-Ray
 
+## Running GitHub Actions Locally
+
+To test and debug the GitHub Actions workflow locally, follow these steps:
+
+1. Install the necessary dependencies by running the following command:
+```bash
+npm install
+```
+   This will install all the required packages and dependencies.
+
+2. Execute the GitHub Actions workflow locally using the following command:
+```bash
+npm run github-actions
+```
+   This will initiate the GitHub Actions workflow for testing purposes.
+
+### Troubleshooting and Common Issues
+
+If you encounter issues during the GitHub Actions run, consider the following troubleshooting tips:
+
+1. Ensure that all required environment variables are properly configured.
+2. Check for any network connectivity issues that may be affecting the workflow.
+3. Review the GitHub Actions configuration file for any syntax errors or misconfigurations.
+4. Verify that all necessary dependencies are up to date and compatible with the workflow requirements.
+5. Search for relevant error messages in the GitHub Actions logs for clues on the source of the issue.
+
 AWS X-Ray supports using OpenTelemetry JavaScript and the AWS Distro for OpenTelemetry (ADOT) Collector to instrument your application and send trace data to X-Ray. The OpenTelemetry SDKs are an industry-wide standard for tracing instrumentation. They provide more instrumentations and have a larger community for support, but may not have complete feature parity with the X-Ray SDKs. See [choosing between the ADOT and X-Ray SDKs](https://docs.aws.amazon.com/xray/latest/devguide/xray-instrumenting-your-app.html#xray-instrumenting-choosing) for more help with choosing between the two.
 
 If you want additional features when tracing your Node.js applications, please [open an issue on the OpenTelemetry JS Instrumentation repository](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/new?labels=enhancement&template=feature_request.md&title=X-Ray%20Compatible%20Feature%20Request).
