@@ -1,0 +1,789 @@
+repo_name: 2lambda123/aws-xray-sdk-node
+report_id: 74a0efeab358a14e1e6a47c00f010e79
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-05T08:14:02+00:00'
+requested_by: srprash
+provider: github
+branch: master
+detected_tools_count: 57
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Wu
+  last_updated_on: 2017-11-09 21:35:35.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/packages/core/package.json
+  detection_source: packages/core/package.json
+  last_updated_by: Wu
+  last_updated_on: 2017-11-09 21:35:35.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.17.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Prashant Srivastava
+  last_updated_on: 2023-04-04 17:03:04.000000000 Z
+- name: Fastify
+  description: Fast and low overhead web framework, for Node.js
+  website_url: http://www.fastify.io/
+  version: 3.29.4
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/7609/24939410.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jorge Vargas
+  last_updated_on: 2022-08-29 18:38:36.000000000 Z
+- name: Koa
+  description: Next generation web framework for node.js
+  website_url: http://koajs.com/
+  version: 2.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1726/5055057.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Wu
+  last_updated_on: 2017-11-09 21:35:35.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Wu
+  last_updated_on: 2017-11-09 21:35:35.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Wu
+  last_updated_on: 2017-11-09 21:35:35.000000000 Z
+- name: Codecov
+  description: Hosted coverage reports with awesome features to enhance your CI workflow
+  website_url: https://codecov.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Carol Abadeer
+  last_updated_on: 2023-03-03 22:47:54.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Wu
+  last_updated_on: 2017-11-09 21:35:35.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/.github/workflows/continuous-monitoring.yml
+  detection_source: ".github/workflows/continuous-monitoring.yml"
+  last_updated_by: Bhautik Pipaliya
+  last_updated_on: 2021-04-02 17:25:12.000000000 Z
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 1.5.3
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: willarmiros
+  last_updated_on: 2019-08-27 21:56:14.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 10.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Carol Abadeer
+  last_updated_on: 2023-01-05 18:53:12.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/packages/core/package.json
+  detection_source: packages/core/package.json
+  last_updated_by: Wu
+  last_updated_on: 2017-11-09 21:35:35.000000000 Z
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: William Armiros
+  last_updated_on: 2020-10-28 21:02:09.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Wu
+  last_updated_on: 2017-11-09 21:35:35.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  version: 9.2.4
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: William Armiros
+  last_updated_on: 2020-10-28 21:02:09.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/packages/postgres/package.json
+  detection_source: packages/postgres/package.json
+  last_updated_by: Wu
+  last_updated_on: 2017-11-09 21:35:35.000000000 Z
+- name: Lerna
+  description: A tool for managing JavaScript projects
+  website_url: https://lerna.js.org/
+  version: 5.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Carol Abadeer
+  last_updated_on: 2022-09-26 19:20:46.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node
+  detection_source: Repo Metadata
+- name: "@aws-sdk/config-resolver"
+  description: "[![NPM version]"
+  package_url: https://www.npmjs.com/@aws-sdk/config-resolver
+  version: 3.12.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17548/default_4627bd50a25f9a490243683fabcc5c97d552aa2a.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Prashant Srivastava
+  last_updated_on: 2023-04-04 17:03:04.000000000 Z
+- name: "@aws-sdk/middleware-stack"
+  description: Provides a means for composing multiple middleware functions into a
+    single handler
+  package_url: https://www.npmjs.com/@aws-sdk/middleware-stack
+  version: 3.6.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17549/default_661ab15cb9ea1663765f3e16ee70a1d2d50118d1.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Prashant Srivastava
+  last_updated_on: 2023-04-04 17:03:04.000000000 Z
+- name: "@aws-sdk/types"
+  description: Types for the AWS SDK
+  package_url: https://www.npmjs.com/@aws-sdk/types
+  version: 3.15.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17340/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: packages/core/package.json
+  last_updated_by: William Armiros
+  last_updated_on: 2021-05-12 19:55:21.000000000 Z
+- name: "@hapi/hapi"
+  description: HTTP Server framework
+  package_url: https://www.npmjs.com/@hapi/hapi
+  version: 20.1.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18181/default_9472f2a1c56256064874685c48697eac8a870621.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: William Armiros
+  last_updated_on: 2020-11-03 19:33:43.000000000 Z
+- name: "@types/chai"
+  description: TypeScript definitions for chai
+  package_url: https://www.npmjs.com/@types/chai
+  version: 4.2.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15922/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: William Armiros
+  last_updated_on: 2021-10-26 17:26:07.000000000 Z
+- name: "@types/express"
+  description: TypeScript definitions for Express
+  package_url: https://www.npmjs.com/@types/express
+  version: 4.17.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: packages/express/package.json
+  last_updated_by: Erik Silkensen
+  last_updated_on: 2019-11-02 06:18:24.000000000 Z
+- name: "@types/koa"
+  description: TypeScript definitions for Koa
+  package_url: https://www.npmjs.com/@types/koa
+  version: 2.11.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16749/default_c795226b47ffe4cb32fcfeee29dd5b030544258a.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: William Armiros
+  last_updated_on: 2021-10-26 17:26:07.000000000 Z
+- name: "@types/mocha"
+  description: TypeScript definitions for mocha
+  package_url: https://www.npmjs.com/@types/mocha
+  version: 8.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Carol Abadeer
+  last_updated_on: 2023-01-05 18:53:12.000000000 Z
+- name: "@types/mysql"
+  description: TypeScript definitions for mysql
+  package_url: https://www.npmjs.com/@types/mysql
+  version: 2.15.17
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17900/default_788839e3786ca1ccd5da69cc550f25d0129fb180.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: packages/mysql/package.json
+  last_updated_by: Erik Silkensen
+  last_updated_on: 2019-11-02 06:18:24.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 14.14.28
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Carol Abadeer
+  last_updated_on: 2022-11-09 00:26:38.000000000 Z
+- name: "@types/pg"
+  description: TypeScript definitions for pg
+  package_url: https://www.npmjs.com/@types/pg
+  version: 7.14.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17947/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: packages/postgres/package.json
+  last_updated_by: Erik Silkensen
+  last_updated_on: 2019-11-02 06:18:24.000000000 Z
+- name: "@types/sinon"
+  description: TypeScript definitions for Sinon
+  package_url: https://www.npmjs.com/@types/sinon
+  version: 9.0.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16151/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: William Armiros
+  last_updated_on: 2021-10-26 17:26:07.000000000 Z
+- name: "@types/sinon-chai"
+  description: TypeScript definitions for sinon-chai
+  package_url: https://www.npmjs.com/@types/sinon-chai
+  version: 3.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16728/default_5ea3918e441555ef1fd413f4100fe15fe23b366f.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: William Armiros
+  last_updated_on: 2021-10-26 17:26:07.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 4.25.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jorge Vargas
+  last_updated_on: 2022-08-29 18:38:36.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 4.25.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: William Armiros
+  last_updated_on: 2021-10-26 17:26:07.000000000 Z
+- name: aws-sdk
+  description: AWS SDK for JavaScript
+  package_url: https://www.npmjs.com/aws-sdk
+  version: 2.1354.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16018/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Prashant Srivastava
+  last_updated_on: 2023-04-04 17:03:04.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 6.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: William Armiros
+  last_updated_on: 2021-06-01 21:06:13.000000000 Z
+- name: eslint-config-semistandard
+  description: Eslint sharable config for semistandard
+  package_url: https://www.npmjs.com/eslint-config-semistandard
+  version: 15.0.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17232/default_f32012d99e98300650172d76a20c554617f1031d.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: William Armiros
+  last_updated_on: 2021-06-01 21:06:13.000000000 Z
+- name: eslint-config-standard
+  description: JavaScript Standard Style - ESLint Shareable Config
+  package_url: https://www.npmjs.com/eslint-config-standard
+  version: 14.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15872/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: William Armiros
+  last_updated_on: 2021-06-01 21:06:13.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.23.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jorge Vargas
+  last_updated_on: 2022-08-29 18:38:36.000000000 Z
+- name: eslint-plugin-mocha
+  description: Eslint rules for mocha
+  package_url: https://www.npmjs.com/eslint-plugin-mocha
+  version: 7.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16194/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Carol Abadeer
+  last_updated_on: 2023-01-05 18:53:12.000000000 Z
+- name: eslint-plugin-node
+  description: Additional ESLint's rules for Node.js
+  package_url: https://www.npmjs.com/eslint-plugin-node
+  version: 11.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15874/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Carol Abadeer
+  last_updated_on: 2022-11-09 00:26:38.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 3.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jorge Vargas
+  last_updated_on: 2022-08-29 18:38:36.000000000 Z
+- name: eslint-plugin-promise
+  description: Enforce best practices for JavaScript promises
+  package_url: https://www.npmjs.com/eslint-plugin-promise
+  version: 4.3.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15885/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jorge Vargas
+  last_updated_on: 2022-08-29 18:38:36.000000000 Z
+- name: eslint-plugin-standard
+  description: ESlint Plugin for the Standard Linter
+  package_url: https://www.npmjs.com/eslint-plugin-standard
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15884/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jorge Vargas
+  last_updated_on: 2022-08-29 18:38:36.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.17.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Prashant Srivastava
+  last_updated_on: 2023-04-04 17:03:04.000000000 Z
+- name: grunt-contrib-clean
+  description: Clean files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-clean
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15939/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jorge Vargas
+  last_updated_on: 2022-08-29 18:38:36.000000000 Z
+- name: grunt-jsdoc
+  description: Integrates jsdoc3 generation into your Grunt build
+  package_url: https://www.npmjs.com/grunt-jsdoc
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16701/default_9b37c4b9479b5cf61478ac117da829ccdd0ed0a0.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: willarmiros
+  last_updated_on: 2019-08-27 21:56:14.000000000 Z
+- name: nock
+  description: HTTP server mocking and expectations library for Node.js
+  package_url: https://www.npmjs.com/nock
+  version: 13.2.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16036/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Prashant Srivastava
+  last_updated_on: 2022-12-23 18:48:13.000000000 Z
+- name: nyc
+  description: The Istanbul command line interface
+  package_url: https://www.npmjs.com/nyc
+  version: 15.1.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15837/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Wu
+  last_updated_on: 2017-11-09 21:35:35.000000000 Z
+- name: rewire
+  description: Easy dependency injection for node.js unit testing
+  package_url: https://www.npmjs.com/rewire
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16319/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: William Armiros
+  last_updated_on: 2020-10-28 21:02:09.000000000 Z
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  version: 6.3.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: packages/core/package.json
+  last_updated_by: Joep Joosten
+  last_updated_on: 2023-04-04 15:50:36.000000000 Z
+  vulnerabilities:
+  - name: semver vulnerable to Regular Expression Denial of Service
+    cve_id: CVE-2022-25883
+    cve_url: https://github.com/advisories/GHSA-c2qf-rxjj-qqgw
+    detected_date: Jun 23
+    severity: moderate
+    first_patched: 6.3.1
+- name: sinon-chai
+  description: Extends Chai with assertions for the Sinon.JS mocking framework
+  package_url: https://www.npmjs.com/sinon-chai
+  version: 3.5.0
+  license: BSD-2-Clause,WTFPL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15914/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: William Armiros
+  last_updated_on: 2020-10-28 21:02:09.000000000 Z
+- name: tsd
+  description: Check TypeScript type definitions
+  package_url: https://www.npmjs.com/tsd
+  version: 0.25.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16858/default_21db97bdb9f4092d80f256d3afec4658fbafe443.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Wu
+  last_updated_on: 2017-11-09 21:35:35.000000000 Z
+- name: upath
+  description: A proxy to `path`
+  package_url: https://www.npmjs.com/upath
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18193/default_63c787c86dc2f82d999c8bfdd3f0cd4aa18c2145.png
+  detection_source_url: https://github.com/2lambda123/aws-xray-sdk-node/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: William Armiros
+  last_updated_on: 2020-10-28 21:02:09.000000000 Z
