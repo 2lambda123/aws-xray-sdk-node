@@ -2,7 +2,7 @@ repo_name: 2lambda123/aws-xray-sdk-node
 report_id: 74a0efeab358a14e1e6a47c00f010e79
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:14:02+00:00'
+timestamp: '2024-02-29T19:21:19+00:00'
 requested_by: srprash
 provider: github
 branch: master
@@ -214,7 +214,7 @@ tools:
   last_updated_by: Wu
   last_updated_on: 2017-11-09 21:35:35.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.2.1
   license: MIT
